@@ -1,16 +1,16 @@
-## Hi there 👋
+### Olá, eu sou o José Felix 👋
+Desenvolvedor | TalentoPro - Gestão de RH
 
-<!--
-**josefelixnunezparejo-dotcom/josefelixnunezparejo-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Meus Projetos Online:**
 
-Here are some ideas to get you started:
+**1. TalentoPro - Landing Page Oficial**
+🔗 https://josefelixnunezparejo-dotcom.github.io/talentopro-landing/
+> Landing page institucional para plataforma de RH
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**2. TalentoPro - Portal do Colaborador**
+🔗 https://josefelixnunezparejo-dotcom.github.io/portal-rh/
+> Sistema de login. Teste com: gestor@aumaqrs.com.br
+
+---
+💻 Tecnologias: HTML, CSS, JavaScript, GitHub Pages
+📍 Caxias do Sul - RS
